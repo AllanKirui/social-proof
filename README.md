@@ -48,7 +48,7 @@ Screenshots of the page in tablet view.
 
 ### Links
 
--  Solution URL: coming soon
+-  Solution URL: [Challenge Solution](https://www.frontendmentor.io/solutions/a-collaborative-project-featuring-a-desktopfirst-workflow-Y6i_qdXtD)
 -  Live Site URL: [Social Proof](https://practical-tereshkova-8c641d.netlify.app/)
 
 ## Our process
